@@ -306,5 +306,7 @@ arr[elem.id] = elem.value;
 for (var key in arr) {
     if (arr.hasOwnProperty(key)) {
         str += key + ',' + arr.key + ' ';
+
+        
     }
 }
